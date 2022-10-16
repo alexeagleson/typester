@@ -1,10 +1,16 @@
 [package]
-name = "typester"
-version = "0.1.0"
+authors = ["Alex Eagleson <alexeagleson@gmail.com>"]
 edition = "2021"
+homepage = "https://github.com/alexeagleson/typester"
+license = "MIT"
+name = "typester"
+readme = "README.md"
+repository = "https://github.com/alexeagleson/typester"
+rust-version = "1.63"
+version = "0.1.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 clap = "4.0.8"
-syn = { version = "1.0.101", features = ["full", "extra-traits"] }
+syn = {version = "1.0.101", features = ["full", "extra-traits"]}
