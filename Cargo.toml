@@ -1,5 +1,6 @@
 [package]
 authors = ["Alex Eagleson <alexeagleson@gmail.com>"]
+description = "Convert Rust types to Typescript types. This crate is meant as a teaching tool and not for production."
 edition = "2021"
 homepage = "https://github.com/alexeagleson/typester"
 license = "MIT"
