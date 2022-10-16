@@ -1,0 +1,1 @@
+type NumberAlias = i32;
